@@ -53,10 +53,6 @@ Jogo de Damas completo com persistência de dados, algoritmos de busca e ordena�
 
 ## 📊 GitHub Stats
 
-**Contribuições em 2026:** [X commits]  
-**Dia Streak:** [X dias]  
-**Repositórios Públicos:** [X]
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mateusgoncalvesteteo-svg&show_icons=true&theme=dark&hide=contribs,prs)
 
 ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusgoncalvesteteo-svg&theme=dark&layout=compact)
