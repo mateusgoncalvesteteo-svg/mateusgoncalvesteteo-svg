@@ -94,5 +94,5 @@ Se você:
 
 ---
 
-**Última atualização:** Junho/2026
+**Última atualização:** Outubro/2026
 
