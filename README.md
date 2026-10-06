@@ -1,7 +1,7 @@
 # Mateus Gonçalves Teteo
 
 ```
-💻 Desenvolvedor C++ | 🎓 TADS UFRN | 🚀 Apaixonado por Algoritmos
+💻 Desenvolvedor  | 🎓 TADS UFRN | 🚀 Apaixonado por Algoritmos
 ```
 
 ---
@@ -35,6 +35,7 @@ Jogo de Damas completo com persistência de dados, algoritmos de busca e ordena�
 ![HTML5](https://shields.io)
 ![JavaScript](https://shields.io)
 ![CSS3](https://shields.io)
+
 
 
 ### Ferramentas
