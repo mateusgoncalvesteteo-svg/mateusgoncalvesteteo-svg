@@ -37,7 +37,6 @@ Jogo de Damas completo com persistÃªncia de dados, algoritmos de busca e ordenaÃ
 ![CSS3](https://shields.io)
 
 
-
 ### Ferramentas
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
