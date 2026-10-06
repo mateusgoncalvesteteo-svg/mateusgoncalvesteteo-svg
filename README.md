@@ -8,7 +8,7 @@
 
 ##  Sobre Mim
 
-Sou desenvolvedor com experiência em **C++** e passion por algoritmos e estruturas de dados. Gosto de criar código limpo, bem estruturado e que segue boas práticas.
+Sou desenvolvedor que gosta de  algoritmos e estruturas de dados. Gosto de criar código limpo, bem estruturado e que segue boas práticas.
 
 ---
 
@@ -31,6 +31,11 @@ Jogo de Damas completo com persistência de dados, algoritmos de busca e ordena�
 ### Linguagens
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://shields.io)
+![HTML5](https://shields.io)
+![JavaScript](https://shields.io)
+![CSS3](https://shields.io)
+
 
 ### Ferramentas
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
@@ -73,7 +78,7 @@ Jogo de Damas completo com persistência de dados, algoritmos de busca e ordena�
 
 - **GitHub:** [@mateusgoncalvesteteo-svg](https://github.com/mateusgoncalvesteteo-svg)
 - **Email:** [mateusgoncavesteteo@gmail.com]
-- **LinkedIn:** [nao tenho]
+- **LinkedIn:** [https://www.linkedin.com/in/mateus-gon%C3%A7alves-teteo-undefined-0897803a1/]
 
 ---
 
